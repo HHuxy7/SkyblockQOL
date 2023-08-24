@@ -1,0 +1,21 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.6",
+  "package": "skyblockqol.mixins",
+  "refmap": "mixins.skyblockqol.refmap.json",
+  "client": [
+    "AccessorRenderManager",
+    "MixinEntity",
+    "MixinEntityLivingBase",
+    "MixinEntityRenderer",
+    "MixinGuiContainer",
+    "MixinGuiScreen",
+    "MixinGuiUtils",
+    "MixinItem",
+    "MixinItemRenderer",
+    "MixinLayerArmorBase",
+    "MixinRenderManager",
+    "MixinSoundManager",
+    "MixinWorld"
+  ]
+}
